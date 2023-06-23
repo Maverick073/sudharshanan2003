@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudharshanan2003
 - 👀 I’m interested in designing stuffs .
-- 🌱 I’m currently learning Programming languages , ui/ux design and front-end .
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Programming languages , ui/ux designing , Machine Learning .
+- 💞️ I’m looking to collaborate on UI/UX designing and bulding Machine learning models. 
 - 📫 How to reach me ... gmail id : s.sudhar2003@gmail.com
 
 <!---
